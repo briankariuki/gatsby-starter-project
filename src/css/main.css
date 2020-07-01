@@ -6,4 +6,13 @@ body {
 
 html {
   height: -webkit-fill-available;
+  font-family: "Inter", sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-rubik {
+  font-family: "Rubik", sans-serif;
 }
